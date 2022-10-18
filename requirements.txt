@@ -1,0 +1,10 @@
+streamlit
+altair
+pandas
+seaborn
+numpy
+matplotlib
+pillow
+scikit-learn
+imblearn
+python-constraint
